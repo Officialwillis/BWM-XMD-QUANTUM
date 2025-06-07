@@ -65,7 +65,7 @@
     },
     "HEROKU_API_KEY": {
       "description": "Enter your Heroku API key to be able to control your vars",
-      "value": "",
+      "value": "HRKU-AAdEJKWMxGve0UxryPLWQV0d72_FwpRwW9vT5SoEa5qw_____w0UGUq6DIcJ",
       "required": true 
     },
     "HEROKU_APP_NAME": {
@@ -75,12 +75,12 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number eg, 2547xxxxxxx",
-      "value": "",
+      "value": "254702365210",
       "required": true 
     },
    "STATUS_REACT_EMOJIS": {
       "description": "Enter your auto like status emojis",
-      "value": "💚,🚀,🌎,✅",
+      "value": "🔥",
       "required": false 
     },
     "AUTO_REACT": {
@@ -95,7 +95,7 @@
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "Ibrahim Adams",
+      "value": "Willis",
       "required": false
     },
     "SESSION_ID": {
